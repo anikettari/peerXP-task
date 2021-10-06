@@ -1,0 +1,86 @@
+.card-background {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1.2px 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    1.2px 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    1.2px 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    1.2px 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    1.2px 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.title-text {
+  font-size: 25px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  color: gray;
+}
+
+.title-text-count {
+  font-size: 40px;
+  line-height: 30px;
+  font-weight: 600;
+  font-family: "Nunito", sans-serif;
+}
+
+.post-title-text {
+  font-size: 25px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+}
+.post-description-text {
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  line-height: 30px;
+  color: grey;
+}
+
+.post-link-text {
+  text-decoration: none !important;
+  font-size: 22px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 800;
+  line-height: 30px;
+  color: black;
+}
+
+.main-heading-text {
+  font-size: 40px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+}
+
+.underline-style {
+  border-bottom: 2px solid grey;
+}
+
+.posts-card-style {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 2px 5px 5px 0.3px;
+}
+
+.text-deco-none {
+  text-decoration: none !important;
+}
+
+.nav-btn {
+  font-size: 30px;
+
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  color: gray;
+  padding: 10px;
+}
+
+.nav-btn-active {
+  background-color: grey;
+  color: white;
+
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 30px;
+
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+}
